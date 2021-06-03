@@ -1,4 +1,4 @@
-# course_calculator
+# Calculator App
 
 A new Flutter application.
 
